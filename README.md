@@ -1,4 +1,4 @@
-# Deep-Leaning-Series-
+# Deep-Leaning-Series
 Deep Learning Fundamentals 
 - MNIST Digit Recognition using CNN
 - Data Augmentation using Image Data Generator
